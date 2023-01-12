@@ -70,11 +70,6 @@
 
 
 ## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats-git-Pedro-Ribas-Moreira.vercel.app/api?)](https://github.com/Pedro-Ribas-Moreira/github-readme-stats)
-<br/>  
- 
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Pedro-Ribas-Moreira&&style=flat-square" align="center" />
