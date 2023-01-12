@@ -70,7 +70,7 @@
 
 
 ## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Ribas-Moreira)](https://github.com/Pedro-Ribas-Moreira/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-Pedro-Ribas-Moreira.vercel.app/api?)](https://github.com/Pedro-Ribas-Moreira/github-readme-stats)
 <br/>  
  
 
